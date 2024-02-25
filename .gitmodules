@@ -6,4 +6,7 @@
   url = https://github.com/alacritty/alacritty-theme.git
 [submodule ".tmux/plugins/tpm"]
 	path = .tmux/plugins/tpm
-	url = https://github.com/tmux-plugins/tpm.git
+  url = https://github.com/tmux-plugins/tpm.git
+[submodule ".config/tmux/plugins/tmux-monokai-pro"]
+	path = .config/tmux/plugins/tmux-monokai-pro
+	url = https://github.com/maxpetretta/tmux-monokai-pro.git

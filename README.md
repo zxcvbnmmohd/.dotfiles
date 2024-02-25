@@ -4,12 +4,23 @@ This directory contains the dotfiles for my system
 
 ## Requirements
 
-Ensure you have the following installed on your system
-
-### Stow
+Ensure you have the following installed on your system:
 
 ```shell
-brew install  stow
+brew tap leoafarias/fvm
+brew install fvm
+
+brew install gh
+
+brew install neovim
+
+brew install pyenv
+
+brew install stow
+
+brew install tmux
+
+brew install zoxide
 ```
 
 ## Installation

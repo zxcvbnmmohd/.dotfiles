@@ -1,4 +1,4 @@
-import = ["~/.config/alacritty/alacritty-theme/themes/aura.toml"]
+import = ["~/.dotfiles/.config/alacritty/alacritty-theme/themes/monokai_pro.toml"]
 
 [window]
 decorations = "Full"
@@ -8,7 +8,7 @@ history = 10000
 multiplier = 3
 
 [font]
-size = 17.5
+size = 15
 normal.family = "JetBrainsMono Nerd Font"
 bold.family = "JetBrainsMono Nerd Font"
 italic.family = "JetBrainsMono Nerd Font"
